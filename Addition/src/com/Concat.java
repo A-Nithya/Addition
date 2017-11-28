@@ -14,7 +14,7 @@ public class Concat {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println(new Object(){}.getClass().getEnclosingClass().getName());
+		System.out.println("@@@@@@@@@@@@@@Hello first program");
 
 	}
 
